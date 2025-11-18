@@ -14,8 +14,8 @@ Since it'll be 30 journal entries with 30 mins in each, I will only have title, 
 Now to say less, lets get started!!
 
 1. Among us
-2. 
-   Ehh what other idea would I have? I'm out of them.
+   
+Ehh what other idea would I have? I'm out of them.
 
 
    <img width="722" height="684" alt="image" src="https://github.com/user-attachments/assets/a3bfaaea-d118-48bf-80b9-f573bc236863" />
