@@ -11,7 +11,7 @@ P.S - I am aiming to make 30 keychains with 30 minutes in each of them!
 
 Since it'll be 30 journal entries with 30 mins in each, I will only have title, image, and time.
 
-Now to say less, lets get started!!
+Lest I say more, lets get started!!
 
 1. Among us
    
