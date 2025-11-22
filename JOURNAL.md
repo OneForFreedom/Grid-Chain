@@ -20,7 +20,7 @@ Ehh what other idea would I have? I'm out of them.
 
    <img width="722" height="684" alt="image" src="https://github.com/user-attachments/assets/a3bfaaea-d118-48bf-80b9-f573bc236863" />
 
-p.s I hate my life, windows just updated, smh
+p.s I hate my life, windows just updated, my work is deleted, not even a recovery drive is available. ima just do 20x20. 
 
 Time taken 30 min.
 
