@@ -20,7 +20,16 @@ Ehh what other idea would I have? I'm out of them.
 
    <img width="722" height="684" alt="image" src="https://github.com/user-attachments/assets/a3bfaaea-d118-48bf-80b9-f573bc236863" />
 
-p.s I hate my life, windows just updated, my work is deleted, not even a recovery drive is available. ima just do 20x20. 
 
 Time taken 30 min.
 
+1 again. 
+
+Windows Updated, which is really anoying, so now I'm forced to redo everything from scratch. I didn't even save my work. Now at first I made this:
+
+<img width="1311" height="607" alt="image" src="https://github.com/user-attachments/assets/1cdc2df3-228a-4977-8936-2cc42d42f5e7" />
+
+It was all extruded, took me like 2-3 hours, which is REALLY anoying because I didn't save that, so that crashed, so now I remade it, (I didnt extrude it, it looks identical to the image above) and that took me a good 2 hours, mainly cuz making each square takes like 15 mins. And I made 8 of them. You may ask why I didn't just copy and paste, and my reason to that is cuz if I do  try copy and paste, It just gets frozen for like 20 mins, then force crashes. So yea, anything repetative, has to be done repeatedly.
+
+Time taken : 5 HOURS
+TOTAL TIME TAKEN: 5.5 HOURS
