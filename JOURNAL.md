@@ -13,7 +13,7 @@ Since it'll be 30 journal entries with 30 mins in each, I will only have title, 
 
 Lest I say more, lets get started!!
 
-1. Among us
+## 1. Among us
    
 Ehh what other idea would I have? I'm out of them.
 
@@ -23,7 +23,7 @@ Ehh what other idea would I have? I'm out of them.
 
 Time taken 30 min.
 
-1 again. 
+## Revolt D: 
 
 Windows Updated, which is really anoying, so now I'm forced to redo everything from scratch. I didn't even save my work. Now at first I made this:
 
@@ -34,7 +34,7 @@ It was all extruded, took me like 2-3 hours, which is REALLY anoying because I d
 Time taken : 5 HOURS
 TOTAL TIME TAKEN: 5.5 HOURS
 
-1. Among Us AGAIN
+## 1. Among Us AGAIN
 <img width="728" height="723" alt="image" src="https://github.com/user-attachments/assets/f2ef62bb-451e-4508-aee8-258cffd3b2aa" />
 
 Extruding every square, then joining them painstakenly took a very long time
@@ -44,7 +44,7 @@ I might make tetris next.
 TT (Time taken) 1h
 TTT (total time taken) 6.5h
 
-2. Tetris
+## 2. Tetris
 <img width="723" height="710" alt="image" src="https://github.com/user-attachments/assets/056611ce-0d83-465f-934e-a3d55d099f61" />
 
 This took wayyyy longer then expected, I look like 2 hours making this. Yes I am indeed very very very inexperianced at cad.
