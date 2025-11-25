@@ -45,3 +45,9 @@ TT (Time taken) 1h
 TTT (total time taken) 6.5h
 
 2. Tetris
+<img width="723" height="710" alt="image" src="https://github.com/user-attachments/assets/056611ce-0d83-465f-934e-a3d55d099f61" />
+
+This took wayyyy longer then expected, I look like 2 hours making this. Yes I am indeed very very very inexperianced at cad.
+
+TT: 2h
+TTT: 8.5h
