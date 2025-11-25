@@ -51,3 +51,10 @@ This took wayyyy longer then expected, I look like 2 hours making this. Yes I am
 
 TT: 2h
 TTT: 8.5h
+
+### To set the ruler straight.
+
+The reason why the keychains are taking a long time is cuz I make the designs on a pixel art thing before actually making it, so it just takes a good bit longer. here's an example of me making one:
+
+<img width="824" height="815" alt="image" src="https://github.com/user-attachments/assets/a1da0bac-6e9f-4ed7-ab4e-38f51afb3fe7" />
+
