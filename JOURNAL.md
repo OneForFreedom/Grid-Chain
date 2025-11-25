@@ -33,3 +33,15 @@ It was all extruded, took me like 2-3 hours, which is REALLY anoying because I d
 
 Time taken : 5 HOURS
 TOTAL TIME TAKEN: 5.5 HOURS
+
+1. Among Us AGAIN
+<img width="728" height="723" alt="image" src="https://github.com/user-attachments/assets/f2ef62bb-451e-4508-aee8-258cffd3b2aa" />
+
+Extruding every square, then joining them painstakenly took a very long time
+
+I might make tetris next.
+
+TT (Time taken) 1h
+TTT (total time taken) 6.5h
+
+2. Tetris
