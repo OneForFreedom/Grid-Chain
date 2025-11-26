@@ -65,3 +65,15 @@ He is SOOOOOO happpiiii!! :D
 
 TT: 1H
 TTT: 9.5H
+
+## 4. Kiwi!!
+<img width="768" height="592" alt="image" src="https://github.com/user-attachments/assets/2be5eb77-001c-4218-b2e7-d7af9f8fde7a" />
+
+Must I say more?
+
+TT: 1H TTT: 10.5H
+
+### Here's the renders of all the key-whatchacallits
+
+<img width="1555" height="386" alt="image" src="https://github.com/user-attachments/assets/01c30547-49e3-40d2-b77c-5728aff6909f" />
+
