@@ -58,3 +58,10 @@ The reason why the keychains are taking a long time is cuz I make the designs on
 
 <img width="824" height="815" alt="image" src="https://github.com/user-attachments/assets/a1da0bac-6e9f-4ed7-ab4e-38f51afb3fe7" />
 
+## 3. Emoji
+   <img width="652" height="593" alt="image" src="https://github.com/user-attachments/assets/345a48e5-9293-46a9-ae87-17ff894d29a0" />
+
+He is SOOOOOO happpiiii!! :D
+
+TT: 1H
+TTT: 9.5H
