@@ -90,3 +90,18 @@ TTT: 12H
 (this is the second to last project. This project is layered and can be physically seen/felt)
 
 <img width="1312" height="502" alt="image" src="https://github.com/user-attachments/assets/de4b5625-1015-4c82-a6a6-1123f6ce329d" />
+
+## 6. Ice Cream!
+
+And thats that! It's finally done, ts soooo repetitive. its just anoying atp, i could make another two, but I cba, heres a screenshot of the icecream! the wafer is at the top left of the icecream!
+
+<img width="577" height="618" alt="image" src="https://github.com/user-attachments/assets/d2713021-1725-47b8-8e96-c3a492f0bf81" />
+
+TT: 1H 
+
+
+### Final TTT: 13h
+
+
+
+
