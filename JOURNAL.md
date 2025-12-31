@@ -100,7 +100,7 @@ And thats that! It's finally done, ts soooo repetitive. its just anoying atp, i 
 TT: 1H 
 
 
-~### Final TTT: 13h~
+#### ~Final TTT: 13h~
 
 Looking back at this, I realise this journal is very dodgy. I'm reducing hours for ts.
 
