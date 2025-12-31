@@ -102,7 +102,7 @@ TT: 1H
 
 #### ~Final TTT: 13h~
 
-Looking back at this, I realise this journal is very dodgy. I'm reducing hours for ts.
+Looking back at this, I realise this journal is very dodgy. I'm reducing hours for ts. (More specifically for the 1st among us section and the revolt section.)
 
 
 ### Final TTT: 10h
