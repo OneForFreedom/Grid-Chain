@@ -15,3 +15,4 @@ reload if you get a 403 error!
 <img width="1510" height="296" alt="image" src="https://github.com/user-attachments/assets/4bfb1175-1634-46d9-bd24-0c86fa6388c5" />
 
 
+## Physical Models!
