@@ -9,7 +9,7 @@ Since no time was done working towards projects. No time is logged.
 
 P.S - I am aiming to make 30 keychains with 30 minutes in each of them!
 
-Since it'll be 30 journal entries with 30 mins in each, I will only have title, image, and time.
+~Since it'll be 30 journal entries with 30 mins in each, I will only have title, image, and time.~ -ts did not go according to plan
 
 Lest I say more, lets get started!!
 
